@@ -26,3 +26,8 @@
 
 - Spring Boot + Bootstrap + Thymeleaf Pagination (JPA, Liquibase, H2)
     - https://frontbackend.com/thymeleaf/spring-boot-bootstrap-thymeleaf-pagination-jpa-liquibase-h2
+    
+- Other
+    - https://spring.io/blog/2011/04/26/advanced-spring-data-jpa-specifications-and-querydsl
+    - https://mmarcosab.medium.com/how-about-dynamic-queries-with-spring-data-jpa-ec62b3e80b50
+    - https://javadeveloperzone.com/spring/spring-jpa-dynamic-query-example/
